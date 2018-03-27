@@ -1,4 +1,4 @@
-# whack-a-mole
+# Whack-a-mole
 WHACK-A-MOLE (not) GUAC-A-MOLE :)
 
 This game is a classic.
