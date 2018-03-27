@@ -5,7 +5,7 @@ This game is a classic.
 
 **Demo the game here:** https://karina001.github.io/whack-a-mole/
 
-![alt tag](https://github.com/karina001/spanishColorsMemoryGame/blob/master/spanishMemoryGame.png)
+![alt tag](https://github.com/karina001/whack-a-mole/blob/master/mole.png)
 
 ## How It's Made:
 
